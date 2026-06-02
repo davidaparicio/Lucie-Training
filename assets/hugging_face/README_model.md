@@ -136,7 +136,7 @@ It was pre-trained on 512 H100 80GB GPUs for about 550\,000 GPU hours on the [Je
 The training code is available at [https://github.com/OpenLLM-France/Lucie-Training](https://github.com/OpenLLM-France/Lucie-Training).
 It is based on [this fork of Megatron-DeepSpeed](https://github.com/OpenLLM-France/Megatron-DeepSpeed).
 
-Optimizer checkpoints are available at [OpenLLM-France/Lucie-7B-optimizer-states](https://huggingface.co/OpenLLM-France/Lucie-7B-optimizer-states).
+Optimizer checkpoints are available for download [here](https://dl.labs.linagora.com/files/models/OpenLLM-France/Lucie-7B-optimizer-states).
 
 #### Neural Network Architecture
 
